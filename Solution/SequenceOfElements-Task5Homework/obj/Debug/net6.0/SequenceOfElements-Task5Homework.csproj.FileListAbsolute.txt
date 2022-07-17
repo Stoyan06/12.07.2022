@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\bin\Debug\net6.0\SequenceOfElements-Task5Homework.exe
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\bin\Debug\net6.0\SequenceOfElements-Task5Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\bin\Debug\net6.0\SequenceOfElements-Task5Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\bin\Debug\net6.0\SequenceOfElements-Task5Homework.dll
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\bin\Debug\net6.0\SequenceOfElements-Task5Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.dll
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\refint\SequenceOfElements-Task5Homework.dll
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\SequenceOfElements-Task5Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\SequenceOfElements-Task5Homework\obj\Debug\net6.0\ref\SequenceOfElements-Task5Homework.dll

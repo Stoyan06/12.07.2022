@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\bin\Debug\net6.0\RotatingTheArray.exe
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\bin\Debug\net6.0\RotatingTheArray.deps.json
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\bin\Debug\net6.0\RotatingTheArray.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\bin\Debug\net6.0\RotatingTheArray.dll
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\bin\Debug\net6.0\RotatingTheArray.pdb
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.dll
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\refint\RotatingTheArray.dll
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.pdb
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\RotatingTheArray.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\RotatingTheArray\obj\Debug\net6.0\ref\RotatingTheArray.dll

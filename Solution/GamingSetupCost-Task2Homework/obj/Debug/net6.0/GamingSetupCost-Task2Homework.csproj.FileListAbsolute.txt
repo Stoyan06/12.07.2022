@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\bin\Debug\net6.0\GamingSetupCost-Task2Homework.exe
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\bin\Debug\net6.0\GamingSetupCost-Task2Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\bin\Debug\net6.0\GamingSetupCost-Task2Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\bin\Debug\net6.0\GamingSetupCost-Task2Homework.dll
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\bin\Debug\net6.0\GamingSetupCost-Task2Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.dll
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\refint\GamingSetupCost-Task2Homework.dll
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\GamingSetupCost-Task2Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\GamingSetupCost-Task2Homework\obj\Debug\net6.0\ref\GamingSetupCost-Task2Homework.dll

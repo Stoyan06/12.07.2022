@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\bin\Debug\net6.0\CommonElementsInArray.exe
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\bin\Debug\net6.0\CommonElementsInArray.deps.json
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\bin\Debug\net6.0\CommonElementsInArray.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\bin\Debug\net6.0\CommonElementsInArray.dll
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\bin\Debug\net6.0\CommonElementsInArray.pdb
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.dll
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\refint\CommonElementsInArray.dll
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.pdb
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\CommonElementsInArray.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\CommonElementsInArray\obj\Debug\net6.0\ref\CommonElementsInArray.dll

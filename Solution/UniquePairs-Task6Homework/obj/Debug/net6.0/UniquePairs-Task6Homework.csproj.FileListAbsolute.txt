@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\bin\Debug\net6.0\UniquePairs-Task6Homework.exe
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\bin\Debug\net6.0\UniquePairs-Task6Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\bin\Debug\net6.0\UniquePairs-Task6Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\bin\Debug\net6.0\UniquePairs-Task6Homework.dll
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\bin\Debug\net6.0\UniquePairs-Task6Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.dll
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\refint\UniquePairs-Task6Homework.dll
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\UniquePairs-Task6Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\UniquePairs-Task6Homework\obj\Debug\net6.0\ref\UniquePairs-Task6Homework.dll

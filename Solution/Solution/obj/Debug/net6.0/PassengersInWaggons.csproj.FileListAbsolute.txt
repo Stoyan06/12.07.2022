@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\Solution\bin\Debug\net6.0\PassengersInWaggons.exe
+D:\Давид обучение\12.07.2022\Solution\Solution\bin\Debug\net6.0\PassengersInWaggons.deps.json
+D:\Давид обучение\12.07.2022\Solution\Solution\bin\Debug\net6.0\PassengersInWaggons.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\Solution\bin\Debug\net6.0\PassengersInWaggons.dll
+D:\Давид обучение\12.07.2022\Solution\Solution\bin\Debug\net6.0\PassengersInWaggons.pdb
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.dll
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\refint\PassengersInWaggons.dll
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.pdb
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\PassengersInWaggons.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\Solution\obj\Debug\net6.0\ref\PassengersInWaggons.dll

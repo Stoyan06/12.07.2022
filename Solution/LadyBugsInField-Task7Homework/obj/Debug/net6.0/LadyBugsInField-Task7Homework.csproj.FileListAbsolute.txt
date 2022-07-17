@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\bin\Debug\net6.0\LadyBugsInField-Task7Homework.exe
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\bin\Debug\net6.0\LadyBugsInField-Task7Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\bin\Debug\net6.0\LadyBugsInField-Task7Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\bin\Debug\net6.0\LadyBugsInField-Task7Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\bin\Debug\net6.0\LadyBugsInField-Task7Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\refint\LadyBugsInField-Task7Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\LadyBugsInField-Task7Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\LadyBugsInField-Task7Homework\obj\Debug\net6.0\ref\LadyBugsInField-Task7Homework.dll

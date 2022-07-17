@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\bin\Debug\net6.0\LeftAndRightSum-Task4Homework.exe
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\bin\Debug\net6.0\LeftAndRightSum-Task4Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\bin\Debug\net6.0\LeftAndRightSum-Task4Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\bin\Debug\net6.0\LeftAndRightSum-Task4Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\bin\Debug\net6.0\LeftAndRightSum-Task4Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\refint\LeftAndRightSum-Task4Homework.dll
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\LeftAndRightSum-Task4Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\LeftAndRightSum-Task4Homework\obj\Debug\net6.0\ref\LeftAndRightSum-Task4Homework.dll

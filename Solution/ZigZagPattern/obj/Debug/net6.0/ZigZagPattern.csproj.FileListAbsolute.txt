@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\bin\Debug\net6.0\ZigZagPattern.exe
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\bin\Debug\net6.0\ZigZagPattern.deps.json
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\bin\Debug\net6.0\ZigZagPattern.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\bin\Debug\net6.0\ZigZagPattern.dll
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\bin\Debug\net6.0\ZigZagPattern.pdb
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.dll
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\refint\ZigZagPattern.dll
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.pdb
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ZigZagPattern.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\ZigZagPattern\obj\Debug\net6.0\ref\ZigZagPattern.dll

@@ -1,0 +1,15 @@
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\bin\Debug\net6.0\JedisAcademy-Task1Homework.exe
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\bin\Debug\net6.0\JedisAcademy-Task1Homework.deps.json
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\bin\Debug\net6.0\JedisAcademy-Task1Homework.runtimeconfig.json
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\bin\Debug\net6.0\JedisAcademy-Task1Homework.dll
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\bin\Debug\net6.0\JedisAcademy-Task1Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.csproj.AssemblyReference.cache
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.AssemblyInfoInputs.cache
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.AssemblyInfo.cs
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.csproj.CoreCompileInputs.cache
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.dll
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\refint\JedisAcademy-Task1Homework.dll
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.pdb
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\JedisAcademy-Task1Homework.genruntimeconfig.cache
+D:\Давид обучение\12.07.2022\Solution\JedisAcademy-Task1Homework\obj\Debug\net6.0\ref\JedisAcademy-Task1Homework.dll
